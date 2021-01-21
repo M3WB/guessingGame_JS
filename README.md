@@ -7,10 +7,10 @@ App Summary:
   + JavaScript Math function will be used to create a random number bewteen 1 and 10.
   + JavaScript will compare the randomly generated number with the number input by the user.
   + The user will be given a prompt with feedback about the guess from one of the four following responses:
-      > "You got it!"
-      > "Your guess was [num], that's too high. Try again."
-      > "Your guess was [num], that's too low. Try again."
-      > "Hey, I said between 1 and 10. You're way off. Try again."
+      - "You got it!"
+      - "Your guess was [num], that's too high. Try again."
+      - "Your guess was [num], that's too low. Try again."
+      - "Hey, I said between 1 and 10. You're way off. Try again."
   + The user will be allowed to guess the number until he or she guesses correctly, and which point the game is ended.
   + For debugging purposes (and to make sure the game isn't cheating) the random number that is generated will be logged to the console and may be accessed by opening the browser dev tools.
   
